@@ -1,4 +1,4 @@
-#TCP Server
+//TCP Server
 
 import java.net.*; 
 import java.io.*; 
@@ -41,7 +41,7 @@ ContentRead.close();
 }
 
 
-#TCP Client
+//TCP Client
 
 import java.net.*; 
 import java.io.*; 
