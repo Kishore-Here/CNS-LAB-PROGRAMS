@@ -23,7 +23,7 @@ NS2/NS3 (Using MAC layer) or equivalent environment.
 Experiment No 6: Implement and study the performance of CDMA on
 NS2/NS3 (Using stack called Call net) or equivalent environment.
 
-                     PART-B
+                  PART-B
 Experiment No 7: Write a program for error detecting code using
 CRC-CCITT (16-bits).
 
